@@ -48,6 +48,7 @@ High accuracy due to clean and linear data distribution.
 ## Tech Stack
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
